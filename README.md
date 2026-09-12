@@ -1,6 +1,5 @@
 # access-to-drinking-water-analysis
 Data analysis of global access to basic drinking-water services (2000–2020), exploring annual rates of change, rural vs. urban disparities, regional trends, and progress toward SDG 6.
-# Access to Drinking Water: Data Analysis
 
 # Access to Drinking Water Analysis
 
