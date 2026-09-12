@@ -50,7 +50,6 @@ The analysis focuses primarily on data from **2015 and 2020** contained in the p
 ## 🛠️ Tools Used
 
 * **Google Sheets**
-* **Microsoft Excel**
 * Data cleaning
 * Data transformation
 * Statistical analysis
