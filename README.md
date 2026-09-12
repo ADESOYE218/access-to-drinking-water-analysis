@@ -1,7 +1,7 @@
 # Access-to-drinking-water-analysis
 Data analysis of global access to basic drinking-water services (2000–2020), exploring annual rates of change, rural vs. urban disparities, regional trends, and progress toward SDG 6.
 
-## ExploreAI 2023 Integrated Project — SDG 6: Clean Water and Sanitation
+## ExploreAI  Integrated Project — SDG 6: Clean Water and Sanitation
 
 This project investigates global access to **basic drinking-water services** between **2000 and 2020**, with a focus on changes in access at the **national, rural, and urban levels**.
 
